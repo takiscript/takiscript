@@ -1,10 +1,12 @@
-<h1 style="margin-bottom: 5px;">Hello, world! 
+<h2 style="margin-bottom: 5px;">Hello, I'm Taki
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
-</h1>
+</h2>
 
-- ✉️ **Email:** [reizscript@gmail.com](mailto:takiscript@gmail.com)  
-- 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
-- 🌐 **Website / Portfolio:** [reizscript.ai](https://reizscript.github.io) 
+I’m an enthusiastic developer and community builder. Feel free to connect!
+
+- ✉️ **Email:** [takiscript@gmail.com](mailto:takiscript@gmail.com)  
+- 💬 **Discord:** [TakiScript](https://discord.com/users/754676438099034142) 
+- 🌐 **Website / Portfolio:** [takiscript.ai](https://takiscript.github.io) 
 
 ---
 
@@ -44,13 +46,13 @@ print(monty_python.gif)
 ### 🌐 Connect with Me:
 
 <p>
-  <a href="https://facebook.com/reizscript" target="_blank">
+  <a href="https://facebook.com/TakiScript" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/reizscript" target="_blank">
+  <a href="https://twitter.com/TakiScripts" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/reizscript" target="_blank">
+  <a href="https://instagram.com/TakiScripts" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
    <a href="https://discordapp.com/users/754676438099034142" target="_blank">
